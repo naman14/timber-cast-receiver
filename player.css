@@ -1,10 +1,10 @@
 .logo {
   background-image: url(logo.png);
-   background-size: 150px 150px;
+   background-size: 200px 200px;
 }
 
 .background {
-    background: #ffffff;
+    background: #f2f2f2;
 }
 
 .watermark {
@@ -13,6 +13,6 @@
 }
 
 .splash {
-  background-image: url(logo.png);
-    background-size: 100px 100px;
+  background-image: url(timber_logo_cast.png);
+    background-size: 300px 300px;
 }
