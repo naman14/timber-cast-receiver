@@ -4,7 +4,7 @@
 }
 
 .background {
-    background: #f2f2f2;
+    background: #ececec;
 }
 
 .watermark {
@@ -14,5 +14,4 @@
 
 .splash {
   background-image: url(timber_logo_cast.png);
-/*    background-size: 300px 300px;
-*/}
+}
