@@ -1,12 +1,18 @@
 .logo {
-  background-image: url(https://rawgit.com/naman14/timber-cast-receiver/gh-pages/logo.png);
+  background-image: url(logo.png);
+   background-size: 150px 150px;
+}
+
+.background {
+    background-color: white;
 }
 
 .watermark {
-  background-image: url(https://rawgit.com/naman14/timber-cast-receiver/gh-pages/logo.png);
+  background-image: url(logo.png);
   background-size: 57px 57px;
 }
 
 .splash {
-  background-image: url(https://rawgit.com/naman14/timber-cast-receiver/gh-pages/logo.png);
+  background-image: url(logo.png);
+    background-size: 100px 100px;
 }
