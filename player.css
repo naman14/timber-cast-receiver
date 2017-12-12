@@ -7,11 +7,6 @@
     background: #ececec;
 }
 
-.watermark {
-  background-image: url(logo.png);
-  background-size: 57px 57px;
-}
-
 .splash {
   background-image: url(timber_logo_cast.png);
 }
