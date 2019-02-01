@@ -2,3 +2,6 @@
   background-image: url(timberx_icon.png);
    background-size: 200px 200px;
 }
+.background {
+    background-color: 'white';
+}
